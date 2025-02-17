@@ -51,7 +51,6 @@ def main():
     print(t2)
     tt1 = buborékos_rendezés(t1)
     tt2 = buborékos_rendezés(t2)
-    # t2.sort()
     print(osszefuttatas_algoritmus(tt1,tt2))
 
 main()
